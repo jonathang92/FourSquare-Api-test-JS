@@ -1,0 +1,12 @@
+#map {
+  height: 100%;
+}
+/* Optional: Makes the sample page fill the window. */
+.map-container{
+  height: 500px;
+  /*margin: 0;*/
+  /*padding: 0;*/
+}
+h1{
+  text-align: center;
+}
